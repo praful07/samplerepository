@@ -1,2 +1,3 @@
 Console.log("Hello World!!");
-Cosole.log("Modified");
+Console.log("Modified");
+Console.log("Modify directory in clone repository");
